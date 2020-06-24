@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- This is a comment -->
+<address>
+    <name>Lars </name>
+    <street> Test </street>
+    <telephone number= "0123"/>
+</address>
