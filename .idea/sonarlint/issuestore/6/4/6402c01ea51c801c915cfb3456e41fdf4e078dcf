@@ -1,0 +1,12 @@
+
+S
+java:S2696`"6Make the enclosing method "static" or remove this set.(¯’è8èçÏ™­.
+R
+java:S2696V"6Make the enclosing method "static" or remove this set.(ÅÒ¬O8èçÏ™­.
+W
+java:S2209+"5Change this instance-reference to a static reference.(Æ ßøøÿÿÿÿ8ÊâÙÙ§.
+X
+java:S2696+"6Make the enclosing method "static" or remove this set.(Æ ßøøÿÿÿÿ8ÊâÙÙ§.
+
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ã ½8­ùØ§.
+T	java:S106@"9Replace this use of System.out or System.err by a logger.(¾ÁS8øí‡Ù§.

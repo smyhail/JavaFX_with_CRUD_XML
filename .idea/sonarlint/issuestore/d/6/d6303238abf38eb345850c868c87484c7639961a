@@ -1,0 +1,19 @@
+
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Φΐ«8Αρª¨.
+9
+java:S1116L"Remove this empty statement.(Δρ®‘8Αρª¨.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(©χ›ξώÿÿÿÿ8Αρª¨.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ήο”¬όÿÿÿÿ8Αρª¨.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ήΕωεόÿÿÿÿ8Αρª¨.
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(•θ8Αρª¨.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8Αρª¨.
+>
+java:S1116M"Remove this empty statement.(©χ›ξώÿÿÿÿ8Αρª¨.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(Δρ®‘8Αρª¨.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Φ£ώΣύÿÿÿÿ8Αρª¨.
+E
+java:S1481,"(Remove this unused "end" local variable.(®νεΜ8Αρª¨.
+H
+java:S1481H"&Remove this unused "l" local variable.(ύΌ°ωÿÿÿÿ8Αρª¨.
+J
+java:S1481-"(Remove this unused "set" local variable.(«²Δÿÿÿÿÿ8Αρª¨.
